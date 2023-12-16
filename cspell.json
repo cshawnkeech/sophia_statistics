@@ -10,7 +10,10 @@
     ],
     // words - list of words to be always considered correct
     "words": [
+        "ANOVA",
+        "binom",
         "boxplot",
+        "chisquare",
         "corrcoef",
         "ddof",
         "figsize",
